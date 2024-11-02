@@ -1,2 +1,2 @@
 # yocto-assignments-base
-Base repository for AESD Yocto assignments
+Base repository for Final project
